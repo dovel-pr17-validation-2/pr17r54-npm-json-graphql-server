@@ -60,7 +60,7 @@
     },
     "dependencies": {
         "@apollo/client": "^3.12.11",
-        "@graphql-tools/schema": "^10.0.18",
+        "@graphql-tools/schema": "^11.0.8",
         "cors": "^2.8.5",
         "express": "^5.2.1",
         "graphql": "^16.10.0",
